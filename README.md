@@ -2,6 +2,7 @@
 
 **A 26now multiplayer social deduction game set in a living AI-driven city.**
 
+** Game Director : Prithvi Singh **
 ---
 
 ## Project Overview
